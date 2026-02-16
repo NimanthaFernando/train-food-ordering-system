@@ -13,6 +13,7 @@ I enhanced the project by adding containerization, testing, and real Linux deplo
 
 - Added **Docker** containerization for the Laravel application.
 - Created **Docker Compose** setup for multi-container orchestration.
+- A shell script named **setup.sh** was created to automate the deployment process.
 - Configured environment variables and container networking.
 - Performed application testing after containerization.
 
