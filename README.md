@@ -1,6 +1,6 @@
 Credits:
-This project is based on work by @username
-https://github.com/username/project-name
+This project is based on work by @Nimeshika2025 [Jayani wickramasinghe]
+https://github.com/username/project-name](https://github.com/Nimeshika2025/_Train_Food_System.git
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
