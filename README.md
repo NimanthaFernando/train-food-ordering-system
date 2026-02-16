@@ -1,6 +1,41 @@
 Credits:
-This project is based on work by @Nimeshika2025 [Jayani wickramasinghe]
+This project is based on work by @Nimeshika2025 [Jayani Wickramasinghe]
 https://github.com/Nimeshika2025/_Train_Food_System.git
+
+---
+
+## 🚀 Project Enhancements & Deployment (My Contribution)
+
+This project was originally developed by **@Nimeshika2025 [Jayani Wickramasinghe]**.  
+I enhanced the project by adding containerization, testing, and real Linux deployment.
+
+## 🔧 Enhancements Added
+
+- Added **Docker** containerization for the Laravel application.
+- Created **Docker Compose** setup for multi-container orchestration.
+- Configured environment variables and container networking.
+- Performed application testing after containerization.
+
+## 🖥️ Linux Deployment
+
+- Deployed the application using Docker on a **CentOS Linux** environment.
+- Tested container communication and application accessibility.
+- Verified deployment in a real Linux server setup.
+
+## 🧪 Testing & Development Tools
+
+- Conducted code testing and deployment validation.
+- Docker creation and testing were assisted using **Google Antigravity IDE**.
+
+## ⚙️ Technologies Used
+
+- Laravel (PHP Framework)
+- Docker & Docker Compose
+- CentOS Linux
+- DevOps Practices
+- Container Networking
+
+---
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
@@ -29,11 +64,11 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript.
 
 ## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+We would like to extend our thanks to the following sponsors for funding Laravel development.
 
 ### Premium Partners
 
@@ -53,16 +88,12 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the Laravel documentation.
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Please review and abide by the Laravel Code of Conduct.
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via taylor@laravel.com.
