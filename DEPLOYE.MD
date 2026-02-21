@@ -10,8 +10,8 @@ This guide explains how to deploy the application on any machine using Docker or
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/NimanthaFernando/train-food-ordering-system.git
-    cd train-food-ordering-system
+    git clone https://github.com/NimanthaFernando/train-food-ordering-webapp.git
+    cd train-food-ordering-webapp
     ```
 
 2.  **Setup Environment**
@@ -52,7 +52,7 @@ If you are on CentOS/RHEL using Podman:
 1.  **Clone the Repository**
     ```bash
     git clone https://github.com/NimanthaFernando/train-food-ordering-system.git
-    cd train-food-ordering-system
+    cd train-food-ordering-webapp
     ```
 
 2.  **Run Setup Script**
